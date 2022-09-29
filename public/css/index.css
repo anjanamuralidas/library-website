@@ -1,0 +1,71 @@
+    #row1 {
+        background-color: grey;
+        padding-top: 5px;
+        padding-bottom: 10px;
+    }
+    
+    #h1 {
+        font-size: 15px;
+        font-weight: bold;
+    }
+    
+    #row2 {
+        background-color: rgb(61, 54, 54);
+    }
+    
+    #icon {
+        font-size: 60px;
+        color: white;
+    }
+    
+    #icon1 {
+        font-size: 90px;
+        color: rgb(41, 37, 37);
+    }
+    
+    #lb {
+        font-size: 30px;
+        padding-top: 20px;
+        color: white;
+        font-style: italic;
+    }
+    
+    #row3 {
+        background-color: rgb(253, 244, 244);
+        padding-top: 30px;
+    }
+    
+    #pp {
+        font-size: 30px;
+    }
+    
+    .card {
+        height: 400px;
+        width: 300px
+    }
+    
+    #im {
+        height: 300px;
+    }
+    
+    #bkr {
+        padding-top: 30px;
+        padding-left: 100px;
+    }
+    
+    .media {
+        background-color: rgb(187, 121, 121);
+    }
+    
+    img {
+        height: 300px;
+    }
+    
+    .card-body {
+        font-weight: bold;
+        background-color: grey;
+    }
+    
+    #im2 {
+        height: 340px;
+    }
